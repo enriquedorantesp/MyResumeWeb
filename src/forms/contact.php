@@ -29,7 +29,7 @@
     'host' => 'smtp.gmail.com',
     'username' => 'enrique.dorantesp@gmail.com',
     'password' => 'Dope1988',
-    'port' => '587'
+    'port' => '465'
   );
   
 
