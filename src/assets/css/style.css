@@ -11,7 +11,15 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
+  background-color: #ffffff;
+  color: #333333;
+  /*-----
+  #color: #272829;
+  -----*/
+}
+dark-mode {
+  background-color: #333333;
+  color: #ffffff;
 }
 
 a {
